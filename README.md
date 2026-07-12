@@ -102,9 +102,9 @@ Served 50,000+ concurrent users. Integrated Application Insights for real-time o
 
 <div align="center">
 
-![]([https://github-readme-stats.vercel.app/api?username=DheerGupta35959&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57E0&icon_color=6E57E0](https://github-readme-stats.shion.dev/api?username=DheerGupta35959&theme=dark&hide_border=false&include_all_commits=true&count_private=true))
+![](https://github-readme-stats.vercel.app/api?username=DheerGupta35959&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57E0&icon_color=6E57E0](https://github-readme-stats.shion.dev/api?username=DheerGupta35959&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=DheerGupta35959&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57E0](https://github-readme-stats.shion.dev/api/top-langs/?username=DheerGupta35959&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerGupta35959&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57E0](https://github-readme-stats.shion.dev/api/top-langs/?username=DheerGupta35959&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
